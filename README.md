@@ -13,42 +13,42 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 # Lista (alfabético)
 
 ## Astronomía
-|Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
-|------|--------|----------|----------------------------|----------|--------|
-|Computación Paralela|120 hs|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
-|Electrónica para laboratorios experimentales de investigación|120 hs|-|primer|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Física computacional|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Formación y evolución de galaxias|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Métodos y herramientas de mecánica celeste aplicadas al sistema solar|90 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Técnicas de detección de exoplanetas|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
+|Computación Paralela|120 hs|FAMAF - Córdoba|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
+|Electrónica para laboratorios experimentales de investigación|120 hs|FAMAF - Córdoba|-|primer|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Física computacional|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Formación y evolución de galaxias|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Métodos y herramientas de mecánica celeste aplicadas al sistema solar|90 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Técnicas de detección de exoplanetas|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
 ## Biología
-|Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
-|------|--------|----------|----------------------------|----------|--------|
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
 |||||||?|
 
 ## Computación
-|Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
-|------|--------|----------|----------------------------|----------|--------|
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
 |Computación Paralela|120 hs|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
-|Física computacional|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Procesamiento de imágenes satelitales meteorológicas|80 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Teoría de modelos|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Física computacional|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Procesamiento de imágenes satelitales meteorológicas|80 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
 ## Electrónica
 
 
 ## Física
-|Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
-|------|--------|----------|----------------------------|----------|--------|
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
 ||||||||?|
 
 ## Matemática
-|Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
-|------|--------|----------|----------------------------|----------|--------|
-|Física computacional|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Geometría algebraica|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Grupos de Lie y álgebras de Lie|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Teoría de juegos|75 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Teoría de modelos|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
+|Física computacional|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Geometría algebraica|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Grupos de Lie y álgebras de Lie|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Teoría de juegos|75 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
