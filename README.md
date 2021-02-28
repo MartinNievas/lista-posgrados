@@ -46,5 +46,9 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 ## Matemática
 |Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
 |------|--------|----------|----------------------------|----------|--------|
-|||||||?|
+|Física computacional|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Geometría algebraica|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Grupos de Lie y álgebras de Lie|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Teoría de juegos|75 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Teoría de modelos|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
