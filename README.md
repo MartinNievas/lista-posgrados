@@ -15,8 +15,12 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 ## Astronomía
 |Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
 |------|--------|----------|----------------------------|----------|--------|
-|Computación Paralela|120 Hs|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
-|Electrónica para laboratorios experimentales de investigación|120 Hs|-|primer|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Computación Paralela|120 hs|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
+|Electrónica para laboratorios experimentales de investigación|120 hs|-|primer|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Física computacional|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Formación y evolución de galaxias|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Métodos y herramientas de mecánica celeste aplicadas al sistema solar|90 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Técnicas de detección de exoplanetas|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
 ## Biología
 |Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
@@ -26,7 +30,10 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 ## Computación
 |Nombre|Duración|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
 |------|--------|----------|----------------------------|----------|--------|
-|Computación Paralela|120 Hs|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
+|Computación Paralela|120 hs|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
+|Física computacional|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Procesamiento de imágenes satelitales meteorológicas|80 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Teoría de modelos|120 hs|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
 ## Electrónica
 
