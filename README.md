@@ -30,12 +30,15 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 ## Computación
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
 |------|--------|--------|----------|----------------------------|----------|--------|
-|Computación Paralela|120 hs|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
+|Computación Paralela|120 hs|FAMAF - Córdoba|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
 |Física computacional|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Procesamiento de imágenes satelitales meteorológicas|80 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
 ## Electrónica
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
+|Fundamentos de Robótica Móvil|120 hs|UTN - Córdoba|2020|primer|[web](https://github.com/gfpp/fundamentos_robotica)|si|
 
 
 ## Física
@@ -48,7 +51,7 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |------|--------|--------|----------|----------------------------|----------|--------|
 |Física computacional|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Geometría algebraica|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
-|Grupos de Lie y álgebras de Lie|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Grupos de Lie y álgebras de Lie|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de juegos|75 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
