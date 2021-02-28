@@ -39,6 +39,7 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
 |------|--------|--------|----------|----------------------------|----------|--------|
 |Fundamentos de Robótica Móvil|120 hs|UTN - Córdoba|2020|primer|[web](https://github.com/gfpp/fundamentos_robotica)|si|
+|Visión por computadora|120 hs|UTN - Córdoba|2020|primer|-|si|
 
 
 ## Física
