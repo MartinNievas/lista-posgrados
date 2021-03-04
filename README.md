@@ -9,6 +9,14 @@ Este repo nace para dar difusión a esos cursos de posgrado que si no fuera por 
 # Formato
 Por ahora es validar que sirva, si funciona lo podemos migrar a una página más "linda" con algo más responsive que un Markdown.
 
+  - Nombre: Nombre de la materia
+  - Duración: Duración de la materia
+  - Facultad: Lugar de cursado
+  - Cursada el: Si la cursaste, el año. Si no la cursaste y solo sabés que se dicta, un "-"
+  - Dictada en qué cuatrimestre
+  - Página web: web o mail de contacto con el docente que la dicte
+  - Virtual: Tiene modalidad virtual?
+
 
 # Lista (alfabético)
 
