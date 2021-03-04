@@ -41,6 +41,21 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Fundamentos de Robótica Móvil|120 hs|UTN - Córdoba|2020|primer|[web](https://github.com/gfpp/fundamentos_robotica)|si|
 |Visión por computadora|120 hs|UTN - Córdoba|2020|primer|-|si|
 
+## Especializaciones
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
+|Especialización y Maestría en Ingeniería en Calidad|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Especialización en Ingeniería Gerencial y Maestría en Administración de Negocios|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Especialización y Maestría en Ingeniería Ambiental|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Especialización y Maestría en Docencia Universitaria|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Maestría en Ingeniería en Control Automático|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Especialización y Maestría en Ingeniería en Sistemas de Información|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Maestría en Energías Renovables (Menciones: Solar, Eólica o Biomasa)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Maestría en Ciencia Regional e Impacto Ambiental (Inscripción diferenciada: consultar a posgrado@frc.utn.edu.ar)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Especialización en Higiene y Seguridad en el Trabajo|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Especialización en Ingeniería en Mantenimiento (A habilitarse próximamente: consultar a posgrado@frc.utn.edu.ar)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+
+
 
 ## Física
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
