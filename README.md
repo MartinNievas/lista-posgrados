@@ -1,4 +1,7 @@
 # Posgrados
+
+![](img/cover.png)
+
 Información de posgrados y materias electivas para cursar (en ocasiones de forma virtual). La información aquí no es axaustiva, la idea es que se complete a medida que pasa el tiempo. Por favor leer la [guía de como contribuir primero](./contribuir.md)
 
 # Motivación
