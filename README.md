@@ -55,6 +55,11 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |------|--------|--------|----------|----------------------------|----------|--------|
 |Fundamentos de Robótica Móvil|120 hs|UTN - Córdoba|2020|primer|[web](https://github.com/gfpp/fundamentos_robotica)|si|
 |Visión por computadora|120 hs|UTN - Córdoba|2020|primer|-|si|
+|Control digital avanzado (Prof. responsable: Dr. Vicente Mut)|2021|INAUT - San Juan|-|primero|froberti (at) inaut.unsj.edu.ar|si ($6000)|
+|Elementos de análisis funcional (Prof. responsable: Dr. Javier Giménez)|2021|INAUT - San Juan|-|primero|froberti (at) inaut.unsj.edu.ar|si ($6000)|
+|Sistemas no lineales (Prof. responsable: Dr. Ricardo Carelli)|2021|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si ($6000)|
+|Control óptimo avanzado (Prof. responsable: Dr. Daniel Patiño)|2021|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si ($6000)|
+|Control servovisual (Prof. responsable: Dr. Carlos Soria)|2021|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si ($6000)|
 
 ## Especializaciones
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
@@ -66,9 +71,9 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Maestría en Ingeniería en Control Automático|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
 |Especialización y Maestría en Ingeniería en Sistemas de Información|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
 |Maestría en Energías Renovables (Menciones: Solar, Eólica o Biomasa)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
-|Maestría en Ciencia Regional e Impacto Ambiental (Inscripción diferenciada: consultar a posgrado@frc.utn.edu.ar)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Maestría en Ciencia Regional e Impacto Ambiental (Inscripción diferenciada: consultar a posgrado (at) frc.utn.edu.ar)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
 |Especialización en Higiene y Seguridad en el Trabajo|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
-|Especialización en Ingeniería en Mantenimiento (A habilitarse próximamente: consultar a posgrado@frc.utn.edu.ar)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
+|Especialización en Ingeniería en Mantenimiento (A habilitarse próximamente: consultar a posgrado (at) frc.utn.edu.ar)|?|UTN - frc|-|primer|[web](http://www.posgrados.frc.utn.edu.ar/)|?|
 
 
 
