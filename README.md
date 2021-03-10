@@ -91,3 +91,8 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Teoría de juegos|75 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 
+## Mecánica
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
+|Mecánica de los Fluidos Avanzada|92 hs|[EPEC - Rosario](https://posgrado.fceia.unr.edu.ar/)|2021|primer|[web](https://posgrado.fceia.unr.edu.ar/educacion-a-distancia/cursos.html)|si ($11k)|
+|Hidrología de Acuíferos en Rocas Sedimentarias|92 hs|[EPEC - Rosario](https://posgrado.fceia.unr.edu.ar/)|2021|primer|[web](https://posgrado.fceia.unr.edu.ar/educacion-a-distancia/cursos.html)|si ($11k)|
