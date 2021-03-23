@@ -49,6 +49,13 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Sistemas Multiagentes|60 hs|UTN - fsf|2020|-|doctorado_sistemas (at) frsf.utn.edu.ar|si|
 |Redes Neuronales Artificiales y Lógica Difusa en Ingeniería|60 hs|UTN - fsf|-|-|doctorado_sistemas (at) frsf.utn.edu.ar|si|
 |Aspectos Teóricos y Metodológicos del Análisis Computacional de Redes Sociales|60 hs|UTN - fsf|-|-|doctorado_sistemas (at) frsf.utn.edu.ar|si|
+|La tecnología satelital en la enseñanza: una propuesta para ampliar el alcance de los conocimientos|?|CONAE|2021|Cursado: 12/04/2021 al 02/06/2021|[web](https://www.argentina.gob.ar/noticias/cursos-virtuales-2021-sobre-uso-de-imagenes-satelitales)|si|
+|Elaboración de módulos temáticos 2Mp y su inclusión en propuestas de enseñanza|?|CONAE|2021|Cursado: 12/04/2021 al 02/06/2021|[web](https://www.argentina.gob.ar/noticias/cursos-virtuales-2021-sobre-uso-de-imagenes-satelitales)|si|
+|Curso de Teledetección Óptica. Nivel Introductorio|?|CONAE|2021|Cursado: 12/04/2021 al 02/06/2021|[web](https://www.argentina.gob.ar/noticias/cursos-virtuales-2021-sobre-uso-de-imagenes-satelitales)|si|
+|Curso de Teledetección SAR. Nivel Introductorio|?|CONAE|2021|Cursado: 12/04/2021 al 02/06/2021|[web](https://www.argentina.gob.ar/noticias/cursos-virtuales-2021-sobre-uso-de-imagenes-satelitales)|si|
+|Curso de Teledetección Aplicada al Color del Océano. Nivel Introductorio|?|CONAE|2021|Cursado: 12/04/2021 al 02/06/2021|[web](https://www.argentina.gob.ar/noticias/cursos-virtuales-2021-sobre-uso-de-imagenes-satelitales)|si|
+|Taller de Análisis de Series temporales en el software GRASS|?|[Instituto Gulich](https://ig.conae.unc.edu.ar/modalidad-distancia/)|2021|Cursado: 12/04/2021 al 02/06/2021|[web](https://www.argentina.gob.ar/noticias/cursos-virtuales-2021-sobre-uso-de-imagenes-satelitales)|si|
+|Curso de Análisis avanzado de Bases de datos espaciales|?|[Instituto Gulich](https://ig.conae.unc.edu.ar/modalidad-distancia/)|2021|Cursado: Mayo a Junio|[web](https://www.argentina.gob.ar/noticias/cursos-virtuales-2021-sobre-uso-de-imagenes-satelitales)|si|
 
 ## Electrónica
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
@@ -90,6 +97,7 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Grupos de Lie y álgebras de Lie|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de juegos|75 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Diplomatura en geomática Aplicada|?|[Instituto Gulich](https://ig.conae.unc.edu.ar/modalidad-distancia/)|2021|Inscripciones Junio 2021|[web](https://ig.conae.unc.edu.ar/modalidad-distancia/)|?|
 
 ## Mecánica
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
