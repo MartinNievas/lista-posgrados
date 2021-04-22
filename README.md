@@ -60,7 +60,7 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 ## Electrónica
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
 |------|--------|--------|----------|----------------------------|----------|--------|
-|Fundamentos de Robótica Móvil|120 hs|UTN - Córdoba|2020|primer|[web](https://github.com/gfpp/fundamentos_robotica)|si|
+|Fundamentos de Robótica Móvil|120 hs|UTN - Córdoba|2020|primer|[web](https://www.profesores.frc.utn.edu.ar/electronica/fundamentosroboticamovil/)|si|
 |Visión por computadora|120 hs|UTN - Córdoba|2020|primer|-|si|
 |Control digital avanzado (Prof. responsable: Dr. Vicente Mut)|2021|INAUT - San Juan|-|primero|froberti (at) inaut.unsj.edu.ar|si ($6000)|
 |Elementos de análisis funcional (Prof. responsable: Dr. Javier Giménez)|2021|INAUT - San Juan|-|primero|froberti (at) inaut.unsj.edu.ar|si ($6000)|
