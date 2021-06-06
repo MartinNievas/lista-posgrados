@@ -1,9 +1,33 @@
 # Pautas de contribución
-La solicitud de Pull Request deben tener un título útil. Las que tengan "Update readme.md" como título se cerrarán de inmediato porque estoy tan cansado de que nadie lea este documento.
+La solicitud de Pull Request deben tener un título útil.
 Lea atentamente todo lo que se incluye en _Agregar curso a esta lista_.
 
+# Agregar curso a esta lista (enviando un correo)
+Para agregar un curso a la lista, pueden enviarme un correo **mnievas (at) frc.utn.edu.ar**, indicando la **categoría** a la cual desean agregar el curso, y los siguientes datos:
 
-# Agregar curso a esta lista
+
+- **Nombre**: Nombre de la materia
+- **Duración**: Cantidad de horas de dictado
+- **Facultad**: Facultad en la que se dicta la materia
+- **Cursada el**: En caso de que la cursaron, o que saben que se dictó en un año en particular, pueden agregar esa información aquí. Esto es para tener un seguimiento de las materias.
+- **Dictada en qué cuatrimestre?**: Cuatrimestre en el cual es dictada la materia. Pueden ser:
+  - Segundo
+  - Primero (cada n años)
+  - Ambos
+  - Anual
+  - Otros
+- **Página web**: En caso que la materia tenga una página web deben incluirla aquí. En caso que no tenga, pueden colocar el mail de contacto omitiendo el arroba (para que les sea más difícil a los bots):
+  - contacto (at) dominio.edu.ar
+- **Virtual?**: En caso que la materuia permita la modalidad virtual para estudiantes de otra facultad
+
+Con los datos anteriores se arma la siguiente línea en el README:
+
+|Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
+|------|--------|--------|----------|----------------------------|----------|--------|
+|Computación Paralela|120 hs|FAMAF - Córdoba|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
+
+
+# Agregar curso a esta lista (mediante github)
 
 Asegúrese de que su solicitud cumpla con las siguientes pautas:
 
