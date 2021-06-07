@@ -67,6 +67,10 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Sistemas no lineales (Prof. responsable: Dr. Ricardo Carelli)|2021|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si ($6000)|
 |Control óptimo avanzado (Prof. responsable: Dr. Daniel Patiño)|2021|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si ($6000)|
 |Control servovisual (Prof. responsable: Dr. Carlos Soria)|2021|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si ($6000)|
+|Elementos de Algebra Matricial (Prof. responsable: Dr. Javier Giménez)|2022|INAUT - San Juan|-|primero|froberti (at) inaut.unsj.edu.ar|si (consultar)|
+|Inteligencia artificial aplicada en identificación y control(Prof. responsable: Dr. Daniel Patiño)|2022|INAUT - San Juan|-|primero|froberti (at) inaut.unsj.edu.ar|si (consultar)|
+|Control de robots(Prof. responsable: Dr. Ricardo Carelli)|2022|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si (consultar)|
+|Control predictivo (Prof. responsable: Dr. Miguel Peña)|2022|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si (consultar)|
 
 ## Especializaciones
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
