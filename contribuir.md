@@ -2,6 +2,10 @@
 La solicitud de Pull Request deben tener un título útil.
 Lea atentamente todo lo que se incluye en _Agregar curso a esta lista_.
 
+
+# Agregar curso a esta lista mediante formulario (Recomendado)
+Para agregar un curso a la lista, pueden hacerlo mediante el siguiente [formulario](http://bit.ly/formulario-para-agregar-curso)
+
 # Agregar curso a esta lista (enviando un correo)
 Para agregar un curso a la lista, pueden enviarme un correo **mnievas (at) frc.utn.edu.ar**, indicando la **categoría** a la cual desean agregar el curso, y los siguientes datos:
 
@@ -18,7 +22,7 @@ Para agregar un curso a la lista, pueden enviarme un correo **mnievas (at) frc.u
   - Otros
 - **Página web**: En caso que la materia tenga una página web deben incluirla aquí. En caso que no tenga, pueden colocar el mail de contacto omitiendo el arroba (para que les sea más difícil a los bots):
   - contacto (at) dominio.edu.ar
-- **Virtual?**: En caso que la materuia permita la modalidad virtual para estudiantes de otra facultad
+- **Virtual?**: En caso que la materia permita la modalidad virtual para estudiantes de otra facultad
 
 Con los datos anteriores se arma la siguiente línea en el README:
 
