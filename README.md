@@ -45,6 +45,7 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Física computacional|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Procesamiento de imágenes satelitales meteorológicas|80 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
+|Redes Neuronales|60 hs|FAMAF - Córdoba|-|segundo|[web](https://www.famaf.unc.edu.ar/~ftamarit/redes2021/)|si|
 |Aprendizaje automático en visión por computadora|100 hs|FAMAF - Córdoba|2019|primer (cada dos años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Sistemas Multiagentes|60 hs|UTN - fsf|2020|-|doctorado_sistemas (at) frsf.utn.edu.ar|si|
 |Redes Neuronales Artificiales y Lógica Difusa en Ingeniería|60 hs|UTN - fsf|-|-|doctorado_sistemas (at) frsf.utn.edu.ar|si|
