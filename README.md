@@ -41,8 +41,13 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 ## Computación
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
 |------|--------|--------|----------|----------------------------|----------|--------|
+|Álgebra universal|120 hs|FAMAF - Córdoba|2022|primer|[programa](https://www.famaf.unc.edu.ar/documents/2503/Introducci%C3%B3n_al_aprendizaje_autom%C3%A1tico_con_Python_2019_1_C_a_2021_2_C.pdf)|?|
+|Física computacional |120 hs|FAMAF - Córdoba|2022|primer|[programa](https://docs.google.com/document/d/1Tohbj7QIMVAZbb4k_pS8AfLKHgRWv9CceNV9iSn0_6E/edit?usp=sharing)|?|
+|Microcontroladores - Sistemas embebidos |120 hs|primer|FAMAF - Córdoba|2022|primer|[programa](https://www.famaf.unc.edu.ar/documents/2490/Microcontroladores_-_Sistemas_embebidos_2020_1_C_a_2022_2_C.pdf)|?|
+|Procesamiento de imágenes satelitales meteorológicas |80 hs|FAMAF - Córdoba|2022|primer|[programa](https://drive.google.com/file/d/1coff88bmMWa8LO7Hw1ptYwtGfLDjhoyp/view?usp=sharing)|?|
+|Teoría de conjuntos |120 hs|FAMAF - Córdoba|2022|primer|[programa](https://drive.google.com/file/d/1Vn7mrnbIurBYKni9nBHBjCfcUZUXMWTJ/view?usp=sharing)|?|
+|Física computacional|120 hs|FAMAF - Córdoba|2022|primer|[programa](https://docs.google.com/document/d/1Tohbj7QIMVAZbb4k_pS8AfLKHgRWv9CceNV9iSn0_6E/edit?usp=sharing)
 |Computación Paralela|120 hs|FAMAF - Córdoba|2020|primer (cada 2 años)|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|si|
-|Física computacional|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Procesamiento de imágenes satelitales meteorológicas|80 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Teoría de modelos|120 hs|FAMAF - Córdoba|-|-|[web](https://www.famaf.unc.edu.ar/academica/post-grado/cursos-posgrado/)|?|
 |Redes Neuronales|60 hs|FAMAF - Córdoba|-|segundo|[web](https://www.famaf.unc.edu.ar/~ftamarit/redes2021/)|si|
