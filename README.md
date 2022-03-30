@@ -77,6 +77,7 @@ Por ahora es validar que sirva, si funciona lo podemos migrar a una página más
 |Inteligencia artificial aplicada en identificación y control(Prof. responsable: Dr. Daniel Patiño)|2022|INAUT - San Juan|-|primero|froberti (at) inaut.unsj.edu.ar|si (consultar)|
 |Control de robots(Prof. responsable: Dr. Ricardo Carelli)|2022|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si (consultar)|
 |Control predictivo (Prof. responsable: Dr. Miguel Peña)|2022|INAUT - San Juan|-|segundo|froberti (at) inaut.unsj.edu.ar|si (consultar)|
+|DISEÑO ANALÓGICO EN CIRCUITOS INTEGRADOS (Dr. Ing. Benjamín Reyes.)|60Hs|Aulas PLM, en FCEFyN-UNC. |2022|primero|agaletto (at) fundacionfulgor.org.ar, benjamin.reyes+daci (at) unc.edu.ar [cronograma](https://docs.google.com/spreadsheets/d/e/2PACX-1vT9Uhd6ejYONEE0y_loArWIrYKr6wTiFpBjq1IwypESy24r3EGs7sMlltWotMjgR_pkFu7o4qElvoQp/pubhtml?gid=163119496&single=true)  [programa](https://drive.google.com/file/d/0BxrEQWdV7TTqUEdpWU9TakgwaUE/view?resourcekey=0-_umD_oUustSchqFqSmN3_g)|si (mixto)|
 
 ## Especializaciones
 |Nombre|Duración|Facultad|Cursada el|Dictada en qué cuatrimestre?|Página web|Virtual?|
